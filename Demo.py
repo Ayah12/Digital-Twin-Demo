@@ -106,3 +106,5 @@ st.subheader("📊 Simulation Results")
 st.write(f"**New Performance Score:** {performance}")
 st.write(f"**New Engagement Level:** {engagement}%")
 st.write(f"**New Attrition Risk:** {risk}")
+
+#run 'streamlit run Demo.py' in terminal to start the app
