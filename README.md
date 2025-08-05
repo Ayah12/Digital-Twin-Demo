@@ -17,9 +17,8 @@ This project demonstrates the use of a **Digital Twin** for simulating workforce
 ## 🛠️ Technologies Used
 
 - [Streamlit](https://streamlit.io/) – Web app framework for interactive dashboards  
-- Python (Pandas, NumPy, Matplotlib, etc.)  
-- CSV/Excel data input  
-- Optional: Scikit-learn / ML model integration for predictions
+- Python
+
 
 ---
 
